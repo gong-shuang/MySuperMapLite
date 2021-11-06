@@ -1,0 +1,9 @@
+include ':baseLibrary'
+include ':imobilelite-data'
+include ':imobilelite-map'
+include ':imobilelite-mapquery'
+include ':imobilelite-spatialanalyst'
+include ':imobilelite-theme'
+include ':imobilelite-thirdpartlayer'
+include ':imobilelite-trafficanalyst'
+
